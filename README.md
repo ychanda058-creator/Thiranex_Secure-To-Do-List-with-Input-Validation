@@ -50,7 +50,7 @@ Open your terminal / command prompt
 
 Clone the repository using:
 
-git clone https://github.com/your-username/secure-todo-list.git
+git clone https://github.com/ychanda058-creator/Thiranex_Secure-To-Do-List-with-Input-Validation.git
 
 
 Move into the project folder:
